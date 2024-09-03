@@ -8,7 +8,8 @@ const Footer = () => {
         <div id="footerBar">
             <div>
                 {/* <h2 id="footerTitle">Bytes of Love</h2> */}
-                <img id="footerImage" src="BoL Logo Edited.png"></img>
+                <a href="heroImage">
+            <img id="footerImage" src="BoL Logo Edited.png"></img></a>
             </div>
 
             <div id="socials">
