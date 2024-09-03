@@ -12,7 +12,7 @@ const Footer = () => {
             </div>
 
             <div id="socials">
-                <a href="https://github.com/ufosc/BytesOfLoveWebsite">
+                <a href="https://github.com/ufosc/BytesOfLoveWebsite" target="_blank">
                     <img src="images/github_logo.png" id="githubLogo"></img>
                 </a>
             </div> 
